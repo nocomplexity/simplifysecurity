@@ -88,7 +88,7 @@ sphinx:
   config:
     html_show_copyright: true        
     html_theme_options:        
-      repository_url: "https://gitlab.com/nocomplexity/simplifysecurity"
+      repository_url: "https://github.com/nocomplexity/simplifysecurity"
       repository_branch: "master" 
       use_repository_button: True
       use_edit_page_button: True
