@@ -1,4 +1,4 @@
-# simplify cyber security. 
+# Simplify cyber security. 
 
 For anyone interested to simplify cyber security: [Check our manifesto!](https://nocomplexity.com/simplifysecurity-manifesto/) 
 
