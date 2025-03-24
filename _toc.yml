@@ -1,0 +1,42 @@
+format: jb-book
+root: intro
+parts:
+
+- caption: Why  
+  chapters:
+  - file: preface
+  - file: why
+
+
+- caption: How  
+  chapters:
+  - file: simplify
+  - file: useaisolutions
+
+- caption: Blueprints
+  chapters:
+  - file: securitybydesign
+  - file: simplechecklist
+  - file: ransomware
+  - file: sbom
+  - file: softwarepackage
+  - file: checkingstandards
+  - file: architecture
+  - file: webform
+  - file: informationoverload
+  - file: riskmitigation 
+  - file: awareness
+  - file: effectiveawareness
+
+
+- caption: About
+  chapters:
+  - file: help
+  - file: contribute
+  - file: attribution
+  - file: sponsors
+  - file: license
+  - file: about
+
+
+  
