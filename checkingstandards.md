@@ -1,6 +1,6 @@
 % TAGS [PREVENTION] [BUSINESS]
 
-# Fast check on Internet Standards
+# Check Internet Standards
 
 ## Problem 
 

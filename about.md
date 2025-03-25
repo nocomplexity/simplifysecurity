@@ -52,6 +52,16 @@ Given the vast array of FOSS cybersecurity products available, this publication 
 A manifesto to revolutionize cybersecurity through simplification.
 :::
 
+
+:::{grid-item-card}
+:link: https://nocomplexity.com/documents/simplifysecurity/intro.html#
+:link-type: url
+{octicon}`book;2em;caption-text` **Simplify Security**        
+^^^
+Find open simple cyber solutions that work. Simplify cyber security to accelerate its effectiveness.
+:::
+
+
 :::{grid-item-card}
 :link: https://nocomplexity.com/documents/simplifyprivacy/intro.html
 :link-type: url

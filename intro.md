@@ -7,7 +7,7 @@ Cyber security is a complex domain. Managing and mitigating risks is not easy.
 :::
 
 
-There is no perfect solution. Never. But there are simple solutions for most **common** cyber security challenges that do work. 
+There is no perfect solution. Never. But there are simple solutions for  **common** cyber security challenges that do work. 
 
 The best cyber security solutions are open solutions which everyone can use. Good solutions are not subject to a hype. Open solutions are transparent and fully open. So everyone can use and improve it.
 

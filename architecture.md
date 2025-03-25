@@ -1,6 +1,6 @@
 % TAGS [PREVENTION] [BUSINESS]
 
-# How to create a security architecture?
+# Create a security architecture
 
 ## Problem
 

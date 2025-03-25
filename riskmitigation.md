@@ -1,6 +1,6 @@
 % TAGS [SECURITY-BY-DESIGN] [PREVENTION] [BUSINESS]
 
-# Mitigate business cyber security risks
+# Mitigate cyber risks
 
 
 ## Problem
