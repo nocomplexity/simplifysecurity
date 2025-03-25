@@ -4,7 +4,7 @@
 
 ## Problem
 
-Cyber security is difficult. Cyber security is a complex field. It requires expertise of many different areas like business sciences and computer sciences. Security risks are difficult to manage and to control. Despite the costs and resources will be invested: major disasters due to security breaches are always possible.
+Cyber security is difficult. Cyber security is a complex field. It requires expertise of many different areas like business sciences and computer sciences. Security risks are difficult to manage and to control. Despite the costs and resources that you invest: major disasters due to security breaches are always possible.
 
 ## Solution
 
