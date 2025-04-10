@@ -2,12 +2,12 @@
 
 # AI/ML for Cyber security
 
-ML/AI/LLMs are practically everywhere these days, from your phone's voice assistant to self-driving cars.
+AI is everywhere these days, from your phone's voice assistant, your smartTV and self-driving cars and 'traditional cars'.
 
 The complexity of current AI/ML technologies has fuelled fears that AI powered applications will cause harm in unforeseen circumstances, or that they are manipulated to act in harmful ways. Think of a self driving car with its own ethics or algorithms that make prediction based on your personal data that really scare you. 
 
 
-Understanding how cyber security and AI technology intersect is vital. You should gain some knowledge on AI/ML technology to make informed decisions, both personally and professionally on applying or not AI-based solutions for cyber security.
+Understanding how cyber security and AI technology intersect is crucial. You should gain knowledge on AI/ML technology to make informed decisions, both personally and professionally. AI knowledge is vital for applying AI-based solutions for cyber security. Or when not to use AI based solutions for your cyber defense.
 
 :::{tip}
 A great (free)guide to quickly learn the essentials on AI/ML technology is the
@@ -15,7 +15,7 @@ A great (free)guide to quickly learn the essentials on AI/ML technology is the
 ::: 
 
 
-Large Language Models (LLMs) have transformed the landscape of artificial intelligence, enabling systems capable of generating text, understanding context, and even engaging in complex reasoning. 
+Large Language Models (LLMs) have transformed the landscape of artificial intelligence, enabling systems capable of generating text, understanding context, and even engaging in complex reasoning. LLM powered systems widely used in the software industry. Despite all kinds of security, safety and ethical risks. The advantage of using AI outweighs these risks by far.
 
 
 
@@ -23,7 +23,7 @@ Large Language Models (LLMs) have transformed the landscape of artificial intell
 :class: danger
 You **MUST BE** aware of potential security, privacy and safety risks. 
 
-**Using AI for security defense is NOT the holy grail.** 
+**Using AI for cyber security defense is NOT the holy grail.** 
 
 Using and integrating AI into cyber security processes comes with new types of risks.
 :::
@@ -31,10 +31,10 @@ Using and integrating AI into cyber security processes comes with new types of r
 
 
 :::{warning}
-DO NOT rely on Al / LLM systems to solve your cyber security problems!
+DO NOT rely on Al-agents / LLM systems to solve your cyber security problems!
 :::
 
-This means you should avoid using AI/ML driven cyber security solutions, even if it is labelled FOSS for:
+This means you should avoid using AI/ML cyber security solutions. Even if these solutions are labelled FOSS. So e.g. avoid using AI driven cyber solutions for:
 - "detecting" vulnerabilities.
 - Monitoring your environment for anomalies.
 - Writing procedures.
@@ -44,10 +44,11 @@ This means you should avoid using AI/ML driven cyber security solutions, even if
 - Creating requirements or principles.
 Or other basic security functions. 
 
-If you do, you will be more vulnerable for security breaches instead of less. 
-AI solutions that are built upon LLMs are far from mature. HIDS systems have a long history of applying ML technologies as well as spam-filters. Creating a tangible security product that ‘learns’  from patterns is not new for security. ML technologies have been applied for many years for HIDS systems and spam-filters. So using AI/ML for cyber security has been done for many years with variable success. 
+If you do use AI cyber solutions, you will be more vulnerable for security breaches instead of less. 
 
-As a basic guideline:
+AI solutions that are built upon LLMs are not mature. HIDS systems have a long history of applying ML technologies as well as spam-filters. Creating a tangible security product that ‘learns’  from patterns is not new for security. ML technologies have been applied for many years for HIDS systems and spam-filters. Using AI/ML for cyber security has been done for many years with variable success. But the lessons learned are not taken into account with the latest AI hyped cyber security solutions.
+
+Simple is to follow a basic proven guideline:
 :::{tip}
 For cyber security products be very conservative with adopting new IT hypes. 
 :::
@@ -65,7 +66,7 @@ The reasons why many hyped AI security products overpromise and do not work are 
 - Risk assessments can not be outsourced to an AI-agent or tool. Crucial within a risk assessment is the specific context. And the context involves a broad scope of humans, processes, business systems and more. Risks are never based on used technology alone. AI is still not suited for judging risks within a specific environment where crucial factors transcend the used technology.
 
 Summarized:
-* AI tools cannot ‘understand’ code, finding security vulnerabilities requires understanding code AND understanding **human-level concepts** like intent, common usage, and context. Today's AI/ML technology that is built in within new cyber security products overpromises.
+* AI tools cannot ‘understand’ code, finding security vulnerabilities requires an in-depth understanding code, networking AND understanding **human-level concepts** like intent, common usage, and context. Today's AI/ML technology that is built in within new cyber security products overpromises.
 
 ## Risks of using LLMs for cyber security
 

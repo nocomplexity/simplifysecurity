@@ -28,7 +28,7 @@ Simplification of security measurements, both tools and processes, is challengin
 * Easier maintenance.
 
 :::{important}
-Lower complexity means less surprises and a more robust security defense.
+Lower complexity means less surprises and a more robust security defence.
 :::
 
 To ease the process to simplify security and avoid IT complexity use our [zero design complexity principles](https://nocomplexity.com/documents/0complexity/abstract.html) to prevent IT complexity from the start.
