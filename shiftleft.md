@@ -12,6 +12,10 @@ To avoid misunderstandings: Simplifying your security landscape is not simple at
 
 It is crucial to remember that risks can never be zero. The perfect security solution with zero risks does not exist. There will always be risks that can not be mitigated. Not by technology nor by procedures. And costs are always limited. Security is not a feature, but a costly quality attribute that is only noticed when things go very wrong. 
 
+More budget and more expensive cyber technology does not help to mitigate all your risks. There is an optimum.
+
+![Cost vs benefits](images/cost_vs_benefit.png)
+
 What is needed is a shift to simpler thinking about cyber security defense measurements.
 
 This means more emphasis on what works from a preventive perspective. Preventive security measurements are often far less technical. But involve humans, human behaviour, human trust and simple to follow procedures and policies that everyone understands and can be followed without friction.
