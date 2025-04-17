@@ -11,6 +11,7 @@ parts:
 - caption: How  
   chapters:
   - file: simplify
+  - file: shiftleft
   - file: useaisolutions
 
 - caption: Blueprints
