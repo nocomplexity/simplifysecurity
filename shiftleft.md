@@ -1,8 +1,9 @@
 # Shift left
 
-Cyber security is complex. Hover cyber solutions that are effective do not need to be complex and very expensive. 
+Cyber security is complex. But effective cyber solutions do not need to be complex and very expensive. 
 
-To avoid misunderstandings: Simplifying your security landscape is not simple at all! It means rethinking your strategy and reprioritize the objectives:
+To avoid misunderstandings: Simplifying your security landscape is not simple at all, but rather means rethinking your strategy and reprioritizing objectives:
+
 * Risks
 * Costs
 * Value
@@ -18,11 +19,11 @@ More budget and more expensive cyber technology does not help to mitigate all yo
 
 What is needed is a shift to simpler thinking about cyber security defense measurements.
 
-This means more emphasis on what works from a preventive perspective. Preventive security measurements are often far less technical. But involve humans, human behaviour, human trust and simple to follow procedures and policies that everyone understands and can be followed without friction.
+This means more emphasis on what works from a preventive perspective. Preventive security measurements are often less technical. Or have nothing to do with technology measurements at all. Most preventive security measurements involve humans, human behaviour, human trust and simple to follow procedures and policies that everyone understands and can be followed without friction.
 
 ![shift Left](images/shift_left_simple.png)
 
-Effective security measures that cost less to design, implement and maintain are preventive solutions. The most simple cost effective preventive cyber solutions have nothing to do with technology. These solutions require changes in business processes or behaviour. E.g. Instead of implementing a very expensive and hard to maintain technology that limits access to confidential documents while also having expensive software to detect unauthorised access. Banning people from having a phone is sometimes a simple and cost effective way to prevent information from being copied.
+Good effective security measures that cost less to design, implement and maintain are preventive solutions.  These solutions require changes in business processes or behaviour. E.g. Instead of implementing a very expensive and hard to maintain technology that limits access to confidential documents while also having expensive software to detect unauthorised access. Banning people from having a phone is sometimes a simple and cost effective way to prevent information from being copied.
 
 The best preventive solutions like creating a good security architecture require no complex technology nor expensive maintenance. Complex technology used in cyber security is often corrective software, to detect errors in previous design steps. 
 
