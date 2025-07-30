@@ -28,6 +28,7 @@ parts:
   - file: riskmitigation 
   - file: awareness
   - file: effectiveawareness
+  - file: zerodays
 
 
 - caption: About
